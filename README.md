@@ -15,7 +15,7 @@ Development experience: Switch, 3DS, DS, DSi, PSP, PlayStation2, PlayStation, SN
 ## Human Corporation
 April 1994 - April 1995
 
-### The Fireman" (1994) - Game Programmer
+### The Fireman (1994) - Programmer
  - Created opening and ending demo programs and combat calculation system programs.
  
  
